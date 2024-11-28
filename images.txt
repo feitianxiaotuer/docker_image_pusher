@@ -1,2 +1,2 @@
 # minio
-minio:RELEASE.2023-09-20T22-49-55Z
+minioaaa/minio:RELEASE.2023-09-20T22-49-55Z
