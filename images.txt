@@ -1,2 +1,2 @@
 # minio
-flyrabbit/minio:RELEASE.2023-09-20T22-49-55Z
+minio/minio:RELEASE.2023-09-20T22-49-55Z
